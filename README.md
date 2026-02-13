@@ -1,6 +1,4 @@
-# Adjective Position and Uniform Information Density (UID)
-
-This project investigates how adjective position (pre-nominal vs. post-nominal) affects information density in multilingual text. We analyze German, Russian (pre-nominal), Spanish, and French (post-nominal) using the Uniform Information Density hypothesis.
+# Are pre-nominal color adjectives more efficient?
 
 ## Project Structure
 
