@@ -1,0 +1,13 @@
+transformers>=4.35.0
+accelerate
+torch
+huggingface-hub
+sentencepiece
+safetensors
+spacy>=3.5.0
+scipy
+numpy
+matplotlib
+seaborn
+tqdm
+wikisets
